@@ -1,0 +1,4 @@
+En la ecuación cuadrática, todo el numerador debe encerrarse entre paréntesis
+En el algoritmo mayor de edad, debe imprimir el nombre de la persona
+
+Calificación: 2.6/3
